@@ -1,8 +1,23 @@
-
 div{
-  border: 1px solid black;
 }
+
 .icons{
   height: 100px;
   width: 100px;
+  pointer-events: none;
+}
+
+.active{
+	border: 1px black solid;
+	border-radius: 7px;
+}
+
+body{
+	background-image: url('img/rollover.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.bg-color{
+	background-color: white !important;
 }
