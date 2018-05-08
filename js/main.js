@@ -126,7 +126,7 @@ $("#q1b1, #q1b2, #q1b3, #q1b4, #q1b5, #q1b6").click(function() {
     $("#aDebug").text("Q1 =" + q1Solution);
     $("#Q2").show();
     $('html, body').animate({
-            scrollTop: $("#Q2").offset().top
+            scrollTop: $("#Q2").offset().top + $(this).height() / 2
         }, 1500);
 });
 

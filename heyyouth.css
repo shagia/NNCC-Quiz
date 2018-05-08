@@ -21,3 +21,7 @@ body{
 .bg-color{
 	background-color: white !important;
 }
+
+#Q2, #Q3{
+	padding: 300px 0px 300px 0px;
+}
