@@ -35,7 +35,7 @@ var q3b8State = false;
 var q3Status = 0;
 
 //Final solutions
-var q1Solution = [];
+var q1Solution = "";
 var q2Solution = [];
 var q3Solution = [];
 
@@ -49,9 +49,8 @@ $("#q1b1").click(function() {
         q1Status = q1Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q1Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution = ("A");
+        console.log(q1Solution);
 
 
         console.log(this + ' ' + q1b1State + ', ' + q1Status);
@@ -65,9 +64,8 @@ $("#q1b2").click(function() {
         q1b2State = true;
         q1Status = q1Status + 1;
 
-        var buttonContent = $(event.target).text();
-        q1Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution = ("B");
+        console.log(q1Solution);
 
         $(this).addClass('active');
         console.log(this + ' ' + q1b2State + ', ' + q1Status);
@@ -79,9 +77,8 @@ $("#q1b3").click(function() {
         q1Status = q1Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q1Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution = ("C");
+        console.log(q1Solution);
 
         console.log(this + ' ' + q1b3State + ', ' + q1Status);
     }
@@ -92,9 +89,8 @@ $("#q1b4").click(function() {
         q1Status = q1Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q1Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution = ("D");
+        console.log(q1Solution);
 
         console.log(this + ' ' + q1b4State + ', ' + q1Status);
     }
@@ -105,9 +101,8 @@ $("#q1b5").click(function() {
         q1Status = q1Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q1Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution = ("E");
+        console.log(q1Solution);
 
         console.log(this + ' ' + q1b5State + ', ' + q1Status);
     }
@@ -118,9 +113,8 @@ $("#q1b6").click(function() {
         q1Status = q1Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q1Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution = ("F");
+        console.log(q1Solution);
 
         console.log(this + ' ' + q1b6State + ', ' + q1Status);
     }
@@ -142,9 +136,8 @@ $("#q2b1").click(function() {
         q2Status = q2Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q2Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution += "1";
+        console.log(q1Solution);
 
         console.log(this + ' ' + q2b1State + ', ' + q2Status);
     }
@@ -157,9 +150,8 @@ $("#q2b2").click(function() {
         q2Status = q2Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q2Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution += "2";
+        console.log(q1Solution);
 
 
         console.log(this + ' ' + q2b2State + ', ' + q2Status);
@@ -174,9 +166,8 @@ $("#q2b3").click(function() {
         q2Status = q2Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q2Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution += "3";
+        console.log(q1Solution);
 
 
         console.log(this + ' ' + q2b3State + ', ' + q2Status);
@@ -190,9 +181,8 @@ $("#q2b4").click(function() {
         q2Status = q2Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q2Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution += "4";
+        console.log(q1Solution);
 
 
         console.log(this + ' ' + q2b4State + ', ' + q2Status);
@@ -206,9 +196,8 @@ $("#q2b5").click(function() {
         q2Status = q2Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q2Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution += "5";
+        console.log(q1Solution);
 
 
         console.log(this + ' ' + q2b5State + ', ' + q2Status);
@@ -222,9 +211,8 @@ $("#q2b6").click(function() {
         q2Status = q2Status + 1;
         $(this).addClass('active');
 
-        var buttonContent = $(event.target).text();
-        q2Solution.push(buttonContent);
-        console.log(buttonContent);
+        q1Solution += "6";
+        console.log(q1Solution);
 
 
         console.log(this + ' ' + q2b6State + ', ' + q2Status);
