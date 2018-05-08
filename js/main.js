@@ -41,6 +41,8 @@ var q3Solution = [];
 
 
 
+
+
 //Q1 statements
 $("#q1b1").click(function() {
 
@@ -447,7 +449,118 @@ $("#endButton").click(function(){
         $("#Q2").hide();
         $("#Q1").hide();
         $("#intro").hide();
+       
         //Assess the final content in the array
+
+        if (q1Solution == "A1") {
+            A1();
+        }
+        else if (q1Solution == "A2") {
+            A2();
+        }
+        else if (q1Solution == "A3") {
+            A3();
+        }
+        else if (q1Solution == "A4") {
+            A4();
+        }
+        else if (q1Solution == "A5") {
+            A5();
+        }
+        else if (q1Solution == "A6") {
+            A6();
+        }
+        else if (q1Solution == "B1") {
+            B1();
+        }
+        else if (q1Solution == "B2") {
+            B2();
+        }
+        else if (q1Solution == "B3") {
+            B3();
+        }
+        else if (q1Solution == "B4") {
+            B4();
+        }
+        else if (q1Solution == "B5") {
+            B5();
+        }
+        else if (q1Solution == "B6") {
+            B6();
+        }
+        else if (q1Solution == "C1") {
+            C1();
+        }
+        else if (q1Solution == "C2") {
+            C2();
+        }
+        else if (q1Solution == "C3") {
+            C3();
+        }
+        else if (q1Solution == "C4") {
+            C4();
+        }
+        else if (q1Solution == "C5") {
+            C5();
+        }
+        else if (q1Solution == "C6") {
+            C6();
+        }
+        else if (q1Solution == "D1") {
+            D1();
+        }
+        else if (q1Solution == "D2") {
+            D2();
+        }
+        else if (q1Solution == "D3") {
+            D3();
+        }
+        else if (q1Solution == "D4") {
+            D4();
+        }
+        else if (q1Solution == "D5") {
+            D5();
+        }
+        else if (q1Solution == "D6") {
+            D6();
+        }
+        else if (q1Solution == "E1") {
+            E1();
+        }
+        else if (q1Solution == "E2") {
+            E2();
+        }
+        else if (q1Solution == "E3") {
+            E3();
+        }
+        else if (q1Solution == "E4") {
+            E4();
+        }
+        else if (q1Solution == "E5") {
+            E5();
+        }
+        else if (q1Solution == "E6") {
+            E6();
+        }
+        else if (q1Solution == "F1") {
+            F1();
+        }
+        else if (q1Solution == "F2") {
+            F2();
+        }
+        else if (q1Solution == "F3") {
+            F3();
+        }
+        else if (q1Solution == "F4") {
+            F4();
+        }
+        else if (q1Solution == "F5") {
+            F5();
+        }
+        else if (q1Solution == "F6") {
+            F6();
+        }
+
     });
 
 //You can cut out the rest of the left over box code
