@@ -2,18 +2,47 @@
 
 //Either the buttons can hold the keys and add up to a final key, like E6
 //try $("#solutionOne").find("#subtitle").html("big rabbit");
+
 var A1 = function A1() {
-	$("#solutionOne").html("A content");
-	$("#solutionTwo").html("1 content");
-	$("#solutionThree").html("1 content");
+
+	$("#solutionOne").find("#title").html(content1.title);
+	$("#solutionOne").find("#subtitle").html(content1.subtitle);
+	$("#solutionOne").find("#link").html(content1.url);
+
+	$("#solutionTwo").find("#title").html(content8.title);
+	$("#solutionTwo").find("#subtitle").html(content8.subtitle);
+	$("#solutionTwo").find("#link").html(content8.url);
+
+	$("#solutionThree").find("#title").html(content4.title);
+	$("#solutionThree").find("#subtitle").html(content4.subtitle);
+	$("#solutionThree").find("#link").html(content4.url);
+
 }
 var A2 = function A2() {
-	$("#solutionOne").html("A content");
-	$("#solutionTwo").html("2 content");
+	$("#solutionOne").find("#title").html(content4.title);
+	$("#solutionOne").find("#subtitle").html(content4.subtitle);
+	$("#solutionOne").find("#link").html(content4.url);
+
+	$("#solutionTwo").find("#title").html(content5.title);
+	$("#solutionTwo").find("#subtitle").html(content5.subtitle);
+	$("#solutionTwo").find("#link").html(content5.url);
+
+	$("#solutionThree").find("#title").html(content6.title);
+	$("#solutionThree").find("#subtitle").html(content6.subtitle);
+	$("#solutionThree").find("#link").html(content6.url);
 }
 var A3 = function A3() {
-	$("#solutionOne").html("A content");
-	$("#solutionTwo").html("3 content");
+	$("#solutionOne").find("#title").html(content10.title);
+	$("#solutionOne").find("#subtitle").html(content10.subtitle);
+	$("#solutionOne").find("#link").html(content10.url);
+
+	$("#solutionTwo").find("#title").html(content11.title);
+	$("#solutionTwo").find("#subtitle").html(content11.subtitle);
+	$("#solutionTwo").find("#link").html(content11.url);
+
+	$("#solutionThree").find("#title").html(content17.title);
+	$("#solutionThree").find("#subtitle").html(content17.subtitle);
+	$("#solutionThree").find("#link").html(content17.url);
 }
 var A4 = function A4() {
 	$("#solutionOne").html("A content");
