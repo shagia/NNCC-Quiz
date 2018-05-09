@@ -1,10 +1,11 @@
 //logic packs
 
 //Either the buttons can hold the keys and add up to a final key, like E6
-
+//try $("#solutionOne").find("#subtitle").html("big rabbit");
 var A1 = function A1() {
 	$("#solutionOne").html("A content");
 	$("#solutionTwo").html("1 content");
+	$("#solutionThree").html("1 content");
 }
 var A2 = function A2() {
 	$("#solutionOne").html("A content");
