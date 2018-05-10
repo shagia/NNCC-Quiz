@@ -391,37 +391,90 @@ var E6 = function E6() {
 	$("#solutionOne").find("#subtitle").html(content19.subtitle);
 	$("#solutionOne").find("#link").html(content19.url);
 
+	$("#solutionTwo").find("#title").html(content15.title);
+	$("#solutionTwo").find("#subtitle").html(content15.subtitle);
+	$("#solutionTwo").find("#link").html(content15.url);
+
+	$("#solutionThree").find("#title").html(content2.title);
+	$("#solutionThree").find("#subtitle").html(content2.subtitle);
+	$("#solutionThree").find("#link").html(content2.url);
+}
+
+var F1 = function F1() {
+	$("#solutionOne").find("#title").html(content1.title);
+	$("#solutionOne").find("#subtitle").html(content1.subtitle);
+	$("#solutionOne").find("#link").html(content1.url);
+
+	$("#solutionTwo").find("#title").html(content8.title);
+	$("#solutionTwo").find("#subtitle").html(content8.subtitle);
+	$("#solutionTwo").find("#link").html(content8.url);
+
+	$("#solutionThree").find("#title").html(content4.title);
+	$("#solutionThree").find("#subtitle").html(content4.subtitle);
+	$("#solutionThree").find("#link").html(content4.url);
+}
+var F2 = function F2() {
+	$("#solutionOne").find("#title").html(content4.title);
+	$("#solutionOne").find("#subtitle").html(content4.subtitle);
+	$("#solutionOne").find("#link").html(content4.url);
+
+	$("#solutionTwo").find("#title").html(content5.title);
+	$("#solutionTwo").find("#subtitle").html(content5.subtitle);
+	$("#solutionTwo").find("#link").html(content5.url);
+
+	$("#solutionThree").find("#title").html(content15.title);
+	$("#solutionThree").find("#subtitle").html(content15.subtitle);
+	$("#solutionThree").find("#link").html(content15.url);
+}
+var F3 = function F3() {
+	$("#solutionOne").find("#title").html(content10.title);
+	$("#solutionOne").find("#subtitle").html(content10.subtitle);
+	$("#solutionOne").find("#link").html(content10.url);
+
+	$("#solutionTwo").find("#title").html(content7.title);
+	$("#solutionTwo").find("#subtitle").html(content7.subtitle);
+	$("#solutionTwo").find("#link").html(content7.url);
+
+	$("#solutionThree").find("#title").html(content12.title);
+	$("#solutionThree").find("#subtitle").html(content12.subtitle);
+	$("#solutionThree").find("#link").html(content12.url);
+}
+var F4 = function F4() {
+	$("#solutionOne").find("#title").html(content17.title);
+	$("#solutionOne").find("#subtitle").html(content17.subtitle);
+	$("#solutionOne").find("#link").html(content17.url);
+
+	$("#solutionTwo").find("#title").html(content4.title);
+	$("#solutionTwo").find("#subtitle").html(content4.subtitle);
+	$("#solutionTwo").find("#link").html(content4.url);
+
+	$("#solutionThree").find("#title").html(content9.title);
+	$("#solutionThree").find("#subtitle").html(content9.subtitle);
+	$("#solutionThree").find("#link").html(content9.url);
+}
+var F5 = function F5() {
+	$("#solutionOne").find("#title").html(content3.title);
+	$("#solutionOne").find("#subtitle").html(content3.subtitle);
+	$("#solutionOne").find("#link").html(content3.url);
+
 	$("#solutionTwo").find("#title").html(content2.title);
 	$("#solutionTwo").find("#subtitle").html(content2.subtitle);
 	$("#solutionTwo").find("#link").html(content2.url);
 
 	$("#solutionThree").find("#title").html(content6.title);
 	$("#solutionThree").find("#subtitle").html(content6.subtitle);
-	$("#solutionThree").find("#link").html(content6.url);
-}
-
-var F1 = function F1() {
-	$("#solutionOne").html("F content");
-	$("#solutionTwo").html("1 content");
-}
-var F2 = function F2() {
-	$("#solutionOne").html("F content");
-	$("#solutionTwo").html("2 content");
-}
-var F3 = function F3() {
-	$("#solutionOne").html("F content");
-	$("#solutionTwo").html("3 content");
-}
-var F4 = function F4() {
-	$("#solutionOne").html("F content");
-	$("#solutionTwo").html("4 content");
-}
-var F5 = function F5() {
-	$("#solutionOne").html("F content");
-	$("#solutionTwo").html("5 content");
-}
+	$("#solutionThree").find("#link").html(content6.url);}
 var F6 = function F6() {
-	$("#solutionOne").html("F content");
-	$("#solutionTwo").html("6 content");
+	$("#solutionOne").find("#title").html(content19.title);
+	$("#solutionOne").find("#subtitle").html(content19.subtitle);
+	$("#solutionOne").find("#link").html(content19.url);
+
+	$("#solutionTwo").find("#title").html(content3.title);
+	$("#solutionTwo").find("#subtitle").html(content3.subtitle);
+	$("#solutionTwo").find("#link").html(content3.url);
+
+	$("#solutionThree").find("#title").html(content11.title);
+	$("#solutionThree").find("#subtitle").html(content11.subtitle);
+	$("#solutionThree").find("#link").html(content11.url);
 }
 
