@@ -126,8 +126,8 @@ $("#q1b1, #q1b2, #q1b3, #q1b4, #q1b5, #q1b6").click(function() {
     $("#aDebug").text("Q1 =" + q1Solution);
     $("#Q2").show();
     $('html, body').animate({
-            scrollTop: $("#Q2").offset().top + $(this).height() / 2
-        }, 1500);
+            scrollTop: $("#Q2").offset().top
+        }, 1000);
 });
 
 //Q2 statements
@@ -228,7 +228,7 @@ $("#q2b1, #q2b2, #q2b3, #q2b4, #q2b5, #q2b6").click(function() {
         $("#Q3").show();
         $('html, body').animate({
             scrollTop: $("#Q3").offset().top
-        }, 1500);
+        }, 1000);
     }
 
 
