@@ -37,8 +37,8 @@ var content4 = {
 var content5 = {
 	name: "content5",
 	type: "article",
-	title: "Young, Black And College-Bound: How Race Matters",
-	subtitle: "Reporting from Atlanta, Chicago, Oakland",
+	title: "I Just Got DACA, And Now Trump Is Canceling It",
+	subtitle: "BY JUAN MIRELES",
 	url: "http://youthradio.org/journalism/i-just-got-daca-and-now-trump-might-cancel-it/",
 	img: "",
 	}
