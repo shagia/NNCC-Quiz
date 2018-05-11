@@ -18,6 +18,15 @@ div{
 	font-size:700%;
 }
 
+.icons--gif{
+	pointer-events: none;
+	padding: 10px;
+}
+
+a#link{
+	color: #66BCC0;
+}
+
 .active{
 	border: 1px black solid;
 	border-radius: 7px;
@@ -40,4 +49,16 @@ body{
 #Q3{
 	max-width: 80%;
 	transform: translate(20%, 0);
+}
+
+h1, h3{
+	color: #66BCC0;
+}
+
+#img {
+	background-image: url('https://picsum.photos/200/300');
+	background-position: center;
+	background-size: cover;
+	height: 15%;
+
 }
