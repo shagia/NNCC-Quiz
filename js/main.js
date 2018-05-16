@@ -1,3 +1,9 @@
+$.wait = function(ms) {
+    var defer = $.Deferred();
+    setTimeout(function() { defer.resolve(); }, ms);
+    return defer;
+};
+
 //Structure initializing
 $(document).ready(function() {
     $("#Q2").hide();
