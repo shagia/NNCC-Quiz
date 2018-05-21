@@ -131,9 +131,11 @@ $("#q1b6").click(function() {
 $("#q1b1, #q1b2, #q1b3, #q1b4, #q1b5, #q1b6").click(function() {
     $("#aDebug").text("Q1 =" + q1Solution);
     $("#Q2").show();
+    
     $('html, body').animate({
             scrollTop: $("#Q2").offset().top
         }, 1000);
+    $("#q2b1").focus();
 });
 
 //Q2 statements
@@ -232,9 +234,11 @@ $("#q2b1, #q2b2, #q2b3, #q2b4, #q2b5, #q2b6").click(function() {
     if (q2Status == 1) {
         $("#aDebug").text("Q2 =" + q2Solution);
         $("#Q3").show();
+
         $('html, body').animate({
             scrollTop: $("#Q3").offset().top
         }, 1000);
+        $("#q3b1").focus();
     }
 
 
