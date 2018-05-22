@@ -4,7 +4,7 @@ var content1 = {
 	title: "Opinion: Fremont Students Deserve LGBTQ+ Inclusive Sex Education",
 	subtitle: "BY SAMEER JHA",
 	url: "http://youthradio.org/journalism/education/opinion-fremont-students-deserve-lgbtq-inclusive-sex-education/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/05/02113129/4435663403_978cdc3a42_o-1024x686.jpg",
 	}
 
 var content2 = {
@@ -13,7 +13,7 @@ var content2 = {
 	title: "#NeverAgain Are You Listening — To Urban Youth Of Color?",
 	subtitle: "BY DYMOND GARRETT, SEBASTIÁN HIDALGO",
 	url: "https://youthradio.org/journalism/neveragain-are-you-listening-to-urban-youth-of-color/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/29101018/Image-3-Oakland_small.jpg",
 	}
 
 var content3 = {
@@ -22,7 +22,7 @@ var content3 = {
 	title: "Hundreds Of Families Have Been Separated At US-Mexico Border",
 	subtitle: "BY NINA ROEHL",
 	url: "https://youthradio.org/journalism/hundreds-of-families-have-been-separated-at-us-mexico-border/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/05/04120213/border-pic.jpg",
 	}
 
 var content4 = {
@@ -31,7 +31,7 @@ var content4 = {
 	title: "Young, Black And College-Bound: How Race Matters",
 	subtitle: "Reporting from Atlanta, Chicago, Oakland",
 	url: "http://youthradio.org/journalism/education/young-black-and-college-bound-how-race-matters/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/06115341/YouthRadio-2.jpg",
 	}
 
 var content5 = {
@@ -40,7 +40,7 @@ var content5 = {
 	title: "I Just Got DACA, And Now Trump Is Canceling It",
 	subtitle: "BY JUAN MIRELES",
 	url: "http://youthradio.org/journalism/i-just-got-daca-and-now-trump-might-cancel-it/",
-	img: "",
+	img: "http://youthradio.org/wp-content/uploads/2017/09/IMG_5154.jpg",
 	}
 
 var content6 = {
@@ -49,7 +49,7 @@ var content6 = {
 	title: "Life In College After A Life In Foster Care",
 	subtitle: "BY NOEL ANAYA",
 	url: "http://youthradio.org/journalism/education/life-in-college-after-a-life-in-foster-care/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2017/04/24164229/NoelAnaya_nytimeshero.jpg",
 	}
 
 var content7 = {
