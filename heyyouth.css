@@ -85,4 +85,9 @@ h1, h3, h2{
 
 }
 
+.container{
+
+    transition: ease 0.5s;
+}
+
 
