@@ -58,7 +58,7 @@ var content7 = {
 	title: 'An Angeleno Reviews "On My Block", The Netflix Series Based In LA',
 	subtitle: "BY PABLO DE LA HOYA",
 	url: "http://youthradio.org/journalism/an-angeleno-reviews-on-my-block-the-netflix-series-based-in-la/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/20163735/Screen-Shot-2018-03-20-at-4.35.47-PM-780x440.png",
 	}
 
 var content8 = {
@@ -67,7 +67,7 @@ var content8 = {
 	title: 'Understanding Singular "They"',
 	subtitle: "BY DESMOND MEAGLEY",
 	url: "http://youthradio.org/journalism/outloud/understanding-singular-they/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/01/10124307/Desmond_1.jpg",
 	}
 
 var content9 = {
@@ -76,7 +76,7 @@ var content9 = {
 	title: "Opinion: I’m A Cheerleader, Here’s Why I Take A Knee",
 	subtitle: "BY SASHA ARMBRESTER",
 	url: "http://youthradio.org/journalism/sports/im-a-cheerleader-heres-why-i-take-a-knee/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2017/12/03121114/still3_preview_new.jpg",
 	}
 
 var content10 = {
@@ -94,7 +94,7 @@ var content11 = {
 	title: "Gen Z Fashion: From YouTube To Your Closet",
 	subtitle: "BY RHEA PARK",
 	url: "http://youthradio.org/journalism/tech/gen-z-fashion-from-youtube-to-your-closet/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2017/12/05140947/Louie.jpg",
 	}
 
 var content12 = {
@@ -103,7 +103,7 @@ var content12 = {
 	title: "I’m A Thin, Black Man, And That Worries My Family",
 	subtitle: "BY RILEY LOCKETT",
 	url: "http://youthradio.org/journalism/health/its-not-how-many-pound-i-weigh/",
-	img: "",
+	img: "http://youthradio.org/wp-content/uploads/2017/10/Riley_headshot_best-1024x683.jpg",
 	}
 
 var content13 = {
@@ -112,7 +112,7 @@ var content13 = {
 	title: "The Downside Of Looking Older",
 	subtitle: "BY CHARLIE STUIP",
 	url: "http://youthradio.org/journalism/health/looking-older/",
-	img: "",
+	img: "../img/charlie.png",
 	}
 
 var content14 = {

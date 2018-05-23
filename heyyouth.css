@@ -12,19 +12,27 @@ div{
 	text-align: center;
 	margin: 0 auto;
 	background-color: transparent;
-    border: #66BCC0 3px solid;
-    border-radius: 100px;
-    padding: 20px;
+    border: #66BCC0 0px solid;
+    border-radius: 15px;
     transition: ease 0.2s;
 }
 
+/*like an orange */
+
 .e-container:focus, .e-container:hover {
-	border: 1px black solid;
-	border-radius: 7px;
 	background-color: transparent;
     border: #66BCC0 5px solid;
-    border-radius: 100px;
+    border-radius: 15px;
     transition: ease 0.2s;
+}
+
+.active{
+	background-color: transparent;
+    border: #66BCC0 5px solid;
+    border-radius: 15px;
+    transition: ease 0.2s;
+    box-shadow: 5px 10px;
+
 }
 
 .icons--emoji{
@@ -47,10 +55,7 @@ a#link{
 	color: #66BCC0;
 }
 
-.active{
-	border: 1px black solid;
-	border-radius: 7px;
-}
+
 
 body{
   background-color: #35B6B7;
@@ -69,8 +74,9 @@ body{
 }
 
 #Q3{
-	max-width: 93%;
-	transform: translate(7%, 0);
+	/*max-width: 93%;
+	transform: translate(7%, 0);*/
+	/* cool reference to how you could center an element using translate - it's modern too! */
 }
 
 h1, h3, h2{
