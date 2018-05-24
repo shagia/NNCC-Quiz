@@ -112,16 +112,16 @@ var content13 = {
 	title: "The Downside Of Looking Older",
 	subtitle: "BY CHARLIE STUIP",
 	url: "http://youthradio.org/journalism/health/looking-older/",
-	img: "../img/charlie.png",
+	img: "./img/charlie.png",
 	}
 
 var content14 = {
 	name: "content14",
 	type: "multimedia",
-	title: "The Downside Of Looking Older",
+	title: "3 Parkland Teens Remember Slain Classmates Via Music, Story, Poetry",
 	subtitle: "BY AMANDA EDWARDS, ARIANA ORTEGA, JENNA HARRIS",
 	url: "http://youthradio.org/journalism/education/3-parkland-teens-remember-slain-classmates-via-music-story-poetry/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/01144646/AmandaEdwards_AtPiano_courtesyEricEdwards-1-1024x950.jpg",
 	}
 
 var content15 = {
@@ -130,7 +130,7 @@ var content15 = {
 	title: "No Excuses",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
 	url: "https://yri.youthradio.org/noexcuses/",
-	img: "",
+	img: "./img/noexcuses.png",
 	}
 
 var content17 = {
@@ -157,7 +157,7 @@ var content19 = {
 	title: "How Are You Feeling? Keep Track With This New App",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
 	url: "https://youthradio.org/journalism/science/mood-ring-by-teens-for-teens-youth-radio/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/02/25103849/MoodRing-Facebook-Image1.png",
 	}
 
 var content20 = {
@@ -166,5 +166,5 @@ var content20 = {
 	title: "Poetry: When I Die Young",
 	subtitle: "BY DEVON SUMMERS",
 	url: "http://youthradio.org/journalism/outloud/poetry-when-i-die-young/",
-	img: "",
+	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/24121010/1.png",
 	}

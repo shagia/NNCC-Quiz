@@ -55,6 +55,13 @@ a#link{
 	color: #66BCC0;
 }
 
+.bSubtitle{
+	display: inline;
+
+	color: #8f409a;
+	font-weight: 600;
+}
+
 
 
 body{
@@ -84,10 +91,9 @@ h1, h3, h2{
 }
 
 #img {
-	background-image: url('https://picsum.photos/200/300');
 	background-position: center;
 	background-size: cover;
-	height: 20%;
+	padding: 0;
 
 }
 
