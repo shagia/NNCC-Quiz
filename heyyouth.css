@@ -94,12 +94,15 @@ h1, h3, h2{
 	background-position: center;
 	background-size: cover;
 	padding: 0;
+	zoom: 50%;
+	/*transform: scale(0.5);*/
 
 }
 
 .container{
 
     transition: ease 0.5s;
+    min-height: 100%;
 }
 
 
