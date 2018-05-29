@@ -139,7 +139,7 @@ var content17 = {
 	title: "MAP THE MOVEMENT #NEVERAGAIN",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
 	url: "https://yri.youthradio.org/neveragain/",
-	img: "",
+	img: "./img/map.png",
 	}
 
 var content18 = {
@@ -148,7 +148,7 @@ var content18 = {
 	title: "Don't Get Faked",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
 	url: "https://yri.youthradio.org/dontgetfaked/",
-	img: "",
+	img: "./img/facts.png",
 	}
 
 var content19 = {

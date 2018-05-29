@@ -38,6 +38,7 @@ var q3b5State = false;
 var q3b6State = false;
 var q3b7State = false;
 var q3b8State = false;
+var q3b9State = false;
 var q3Status = 0;
 
 //Final solutions
@@ -447,6 +448,25 @@ $("#q3b8").click(function() {
         //Need to remove the specific text from the array using this.
 
         console.log(this + ' ' + q3b8State + ', ' + q3Status);
+        }
+});
+
+$("#q3b9").click(function() {
+
+    if (q3b9State == false) {
+        q3b9State = true;
+        q3Status = q3Status + 1;
+        $(this).addClass('active');
+
+        var buttonContent = $(event.target).text();
+        q3Solution.push(buttonContent);
+    }
+    else {q3b9State = false;
+        q3Status = q3Status - 1;
+        $(this).removeClass('active');
+
+        var buttonContent = $(event.target).text();
+        //Need to remove the specific text from the array using this.
         }
 });
 
