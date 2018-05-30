@@ -11,6 +11,47 @@ $(document).ready(function() {
     $("#Q4").hide();
 });
 
+//Restart init
+$("#replay").click(function(){
+
+    q1b1State = false;
+    q1b2State = false;
+    q1b3State = false;
+    q1b4State = false;
+    q1b5State = false;
+    q1b6State = false;
+    q1Status = 0;
+
+    q2b1State = false;
+    q2b2State = false;
+    q2b3State = false;
+    q2b4State = false;
+    q2b5State = false;
+    q2b6State = false;
+    q2Status = 0;
+
+    q3b1State = false;
+    q3b2State = false;
+    q3b3State = false;
+    q3b4State = false;
+    q3b5State = false;
+    q3b6State = false;
+    q3b7State = false;
+    q3b8State = false;
+    q3b9State = false;
+    q3Status = 0;
+
+
+    $("#q1b1").removeClass('.active');
+
+
+    $("#Q1").show();
+    $("#Q2").hide();
+    $("#Q3").hide();
+    $("#Q4").hide();
+
+});
+
 //Q1
 var q1b1State = false;
 var q1b2State = false;
@@ -591,160 +632,3 @@ $("#endButton").click(function(){
 
     });
 
-//You can cut out the rest of the left over box code
-
-/* $("#q3b1, #q3b2, #q3b3, #q3b4, #q3b5, #q3b6, #q3b7, #q3b8").click(function() {
-
-    if (q2Status == 1) {
-        $("#aDebug").text("Q2 =" + q3Solution);
-        $("#Q4").show();
-        $("#Q3").hide();
-        $("#Q2").hide();
-        $("#Q1").hide();
-        $("#intro").hide();
-        $('html, body').animate({
-            scrollTop: $("#Q4").offset().top
-        }, 1500);
-    }
-
-
-
-}); */
-
-
-//Big boxes, jesus
-
-//Row 1
-
-
-$("#box1").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-$("#box2").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-$("#box3").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-$("#box4").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-
-//Row 2
-
-$("#box5").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-$("#box6").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-$("#box7").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-$("#box8").click(function() {
-
-    if ($(this).hasClass('active-box')) {
-
-        $(this).removeClass('active-box');
-
-    } else {
-        $(this).addClass('active-box');
-        var buttonContent = $(event.target).text();
-        q3Solution.push(buttonContent);
-        console.log(buttonContent);
-    };
-
-});
-
-$("#q3NP").click(function() {
-
-    $("#aDebug").text("Q3 =" + q3Solution);
-
-});
-
-
-
-//The logic should let a user click a button and check how many buttons have been clicked. If under 2, let them click another or the same button, if exactly 2, kill the function until they click one that's active, which'll bring them back down to 1 or 0.
-
-//Make a template where only one button in a row can be clicked, and another where multiple can be.
-
-//Maybe the buttons can have a "true" class, and jquery can check each respective chapter's buttons for said 'true' buttons and their attatched number when pressing the "next page" ID.
-
-//In the background after the page is over (when someone presses next page) it can select the outcome based on what the user chose, and display it when the overall quiz is over.
