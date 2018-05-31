@@ -14,41 +14,7 @@ $(document).ready(function() {
 //Restart init
 $("#replay").click(function(){
 
-    q1b1State = false;
-    q1b2State = false;
-    q1b3State = false;
-    q1b4State = false;
-    q1b5State = false;
-    q1b6State = false;
-    q1Status = 0;
-
-    q2b1State = false;
-    q2b2State = false;
-    q2b3State = false;
-    q2b4State = false;
-    q2b5State = false;
-    q2b6State = false;
-    q2Status = 0;
-
-    q3b1State = false;
-    q3b2State = false;
-    q3b3State = false;
-    q3b4State = false;
-    q3b5State = false;
-    q3b6State = false;
-    q3b7State = false;
-    q3b8State = false;
-    q3b9State = false;
-    q3Status = 0;
-
-
-    $("#q1b1").removeClass('.active');
-
-
-    $("#Q1").show();
-    $("#Q2").hide();
-    $("#Q3").hide();
-    $("#Q4").hide();
+    location.reload();
 
 });
 
