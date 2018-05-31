@@ -7,6 +7,45 @@ div{
   pointer-events: none;
 }
 
+.btn-finish{
+background: linear-gradient(272deg, #cae1e1, #ededed, #d2bed4);
+background-size: 600% 600%;
+padding: 20px;
+border-radius: 4px;
+color: white;
+font-size: 2rem;
+font-weight: 800;
+transition: ease 0.2s;
+
+
+-webkit-animation: AnimationName 7s ease infinite;
+-moz-animation: AnimationName 7s ease infinite;
+animation: AnimationName 7s ease infinite;
+
+}
+
+.btn-finish:hover{
+	padding: 30px;
+    transition: ease 0.2s;
+
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 53%}
+    50%{background-position:100% 48%}
+    100%{background-position:0% 53%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 53%}
+    50%{background-position:100% 48%}
+    100%{background-position:0% 53%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 53%}
+    50%{background-position:100% 48%}
+    100%{background-position:0% 53%}
+}
+
 .e-container {
 	display: block;
 	text-align: center;
