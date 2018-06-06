@@ -596,5 +596,9 @@ $("#endButton").click(function(){
             F6();
         }
 
+         $('html, body').animate({
+            scrollTop: $("#Q4").offset().top
+        }, 1000);
+
     });
 
