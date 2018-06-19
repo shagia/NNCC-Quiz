@@ -33,7 +33,7 @@ var content4 = {
 	type: "article",
 	title: "Young, Black And College-Bound: How Race Matters",
 	subtitle: "Reporting from Atlanta, Chicago, Oakland",
-	excerpt: 'On the day college decisions went live online, I squeezed my eyes shut and clicked on the link. When I opened my eyes, confetti exploded across the screen, and there was the word I’d been hoping for: “Congratulations.” Blood rushed to my face, and I started crying tears of joy.',
+	excerpt: 'When thinking about college choice, how much does race matter for three black seniors from Oakland, Chicago, and Atlanta?',
 	url: "http://youthradio.org/journalism/education/young-black-and-college-bound-how-race-matters/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/06115341/YouthRadio-2.jpg",
 	}
@@ -43,7 +43,7 @@ var content5 = {
 	type: "article",
 	title: "I Just Got DACA, And Now Trump Is Canceling It",
 	subtitle: "BY JUAN MIRELES",
-	excerpt: 'I remember the day I applied to be a Dreamer. It was June last year, shortly before my 19th birthday and the Presidential election. My mom and I were so excited about my DACA application, she insisted on taking a photo of me at the post office holding the sealed envelope.',
+	excerpt: 'It took more than a year for my DACA to be processed and approved. Now I fear that I’ll have to quit my job before I even begin my first day.',
 	url: "http://youthradio.org/journalism/i-just-got-daca-and-now-trump-might-cancel-it/",
 	img: "http://youthradio.org/wp-content/uploads/2017/09/IMG_5154.jpg",
 	}
@@ -53,7 +53,7 @@ var content6 = {
 	type: "article",
 	title: "Life In College After A Life In Foster Care",
 	subtitle: "BY NOEL ANAYA",
-	excerpt: 'Being an extrovert is a double-edged sword. I can speak confidently in my college classes and in front of large groups. But everyone seems to think I’ve got it all under control, and I rarely feel that way.',
+	excerpt: 'There’s a ticking clock always in the back of my mind. I need to graduate and become financially independent before the support I get from the foster care system disappears.',
 	url: "http://youthradio.org/journalism/education/life-in-college-after-a-life-in-foster-care/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2017/04/24164229/NoelAnaya_nytimeshero.jpg",
 	}
@@ -63,7 +63,7 @@ var content7 = {
 	type: "video",
 	title: 'An Angeleno Reviews "On My Block", The Netflix Series Based In LA',
 	subtitle: "BY PABLO DE LA HOYA",
-	excerpt: 'The new Netflix series “On My Block” revolves around a group of teens living in South LA. But does it capture the real Angeleno experience? Youth Radio’s Pablo De La Hoya grew up in LA and has this review.',
+	excerpt: 'The new Netflix series “On My Block” revolves around a group of teens living in South LA. But does it capture the real Angeleno experience? ',
 	url: "http://youthradio.org/journalism/an-angeleno-reviews-on-my-block-the-netflix-series-based-in-la/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/20163735/Screen-Shot-2018-03-20-at-4.35.47-PM-780x440.png",
 	}
@@ -73,7 +73,7 @@ var content8 = {
 	type: "audio",
 	title: 'Understanding Singular "They"',
 	subtitle: "BY DESMOND MEAGLEY",
-	excerpt: 'When I tell someone my preferred pronouns are they/ them/ their, I never know what to expect. Sometimes people just say, “Okay.” Other times, they’ll ask a whole bunch of questions I don’t really feel like answering.',
+	excerpt: 'When I tell someone my preferred pronouns are they/ them/ their, I never know what to expect.',
 	url: "http://youthradio.org/journalism/outloud/understanding-singular-they/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/01/10124307/Desmond_1.jpg",
 	}
@@ -83,7 +83,7 @@ var content9 = {
 	type: "audio",
 	title: "Opinion: I’m A Cheerleader, Here’s Why I Take A Knee",
 	subtitle: "BY SASHA ARMBRESTER",
-	excerpt: 'When Colin Kaepernick started taking a knee, a lot of people thought he was being unpatriotic. But for me and the other black cheerleaders on my team, we were inspired. We saw opportunity to call attention to racial injustice. We began taking a knee, too, but the football players remain standing.',
+	excerpt: 'Inspired by Colin Kaepernick, a Bay Area high school cheerleading squad begins taking a knee during the national anthem, despite backlash from coaches and spectators.',
 	url: "http://youthradio.org/journalism/sports/im-a-cheerleader-heres-why-i-take-a-knee/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2017/12/03121114/still3_preview_new.jpg",
 	}
@@ -93,7 +93,7 @@ var content10 = {
 	type: "playlist",
 	title: "20 Woke Tracks That Slap",
 	subtitle: "BY ALLDAYPLAY.FM",
-	excerpt: 'Looking for a playlist for the revolution? For the 50th anniversary of Martin Luther King, Jr.’s death, we’re resurfacing this playlist made by interns at AllDayPlay.fm of their favorite woke tracks.',
+	excerpt: 'Looking for a playlist for the revolution?',
 	url: "http://youthradio.org/arts/20-woke-tracks-that-slap/",
 	img: "./img/solange.jpg",
 	}
@@ -103,7 +103,7 @@ var content11 = {
 	type: "audio",
 	title: "Gen Z Fashion: From YouTube To Your Closet",
 	subtitle: "BY RHEA PARK",
-	excerpt: 'I used to be addicted to an internet phenomenon called haul videos. It sounds kind of weird. But I’ll literally watch someone sitting in their room, trying on clothes and talking about how they fit.',
+	excerpt: 'The fashion industry squares off against a legion of Gen Zers with webcams.',
 	url: "http://youthradio.org/journalism/tech/gen-z-fashion-from-youtube-to-your-closet/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2017/12/05140947/Louie.jpg",
 	}
@@ -113,7 +113,7 @@ var content12 = {
 	type: "audio",
 	title: "I’m A Thin, Black Man, And That Worries My Family",
 	subtitle: "BY RILEY LOCKETT",
-	excerpt: 'Here’s what I hear from everyone in my family: “Why you so skinny?” “Boy you thin!” “Get some meat on your bones.” I get it from my friends, too. One time I was sitting having school lunch, and when I took off my coat, my friends acted like I opened the Ark of the Covenant. “Whoa!” they asked. “Do you wear your jacket all the time to hide how thin you are?” It’s like people can’t keep their opinions to themselves.',
+	excerpt: 'In my family’s minds, muscles are a kind of insurance policy against the dangers black men face.',
 	url: "http://youthradio.org/journalism/health/its-not-how-many-pound-i-weigh/",
 	img: "http://youthradio.org/wp-content/uploads/2017/10/Riley_headshot_best-1024x683.jpg",
 	}
@@ -123,7 +123,7 @@ var content13 = {
 	type: "audio",
 	title: "The Downside Of Looking Older",
 	subtitle: "BY CHARLIE STUIP",
-	excerpt: 'I get this all the time — from cashiers to full grown men trying to get my number — “You are not 15!” Maybe it’s because I’m tall. Maybe it’s because I went through puberty early, but people have gotten my age wrong since I was 10. I remember my fifth grade teacher telling me to dress like a child. I did dress like a child; I just didn’t look like one.',
+	excerpt: 'Sexual harassment starts young. It’s hard being a teenage girl who looks older than she is. #MeToo',
 	url: "http://youthradio.org/journalism/health/looking-older/",
 	img: "./img/charlie.png",
 	}
