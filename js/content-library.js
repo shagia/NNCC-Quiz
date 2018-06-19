@@ -3,7 +3,7 @@ var content1 = {
 	type: "article",
 	title: "Opinion: Fremont Students Deserve LGBTQ+ Inclusive Sex Education",
 	subtitle: "BY SAMEER JHA",
-	excerpt: 'Throughout elementary and middle school, I was bullied because of my femininity. I was teased endlessly because unlike my male peers, I did not enjoy rough sports or violent video games. When I had to play badminton for P.E., I refused to hit the shuttlecock, which I saw as a princess in a wedding gown. Instead I enjoyed singing, and performing in musical theatre, an activity that was, according to my bullies, “so gay.”',
+	excerpt: "My journey to understanding who I am was unnecessarily painful because of the lack of inclusive sex education.",
 	url: "http://youthradio.org/journalism/education/opinion-fremont-students-deserve-lgbtq-inclusive-sex-education/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/05/02113129/4435663403_978cdc3a42_o-1024x686.jpg",
 	}
@@ -13,7 +13,7 @@ var content2 = {
 	type: "article",
 	title: "#NeverAgain Are You Listening — To Urban Youth Of Color?",
 	subtitle: "BY DYMOND GARRETT, SEBASTIÁN HIDALGO",
-	excerpt: 'In urban areas, young people of color have been fighting against gun violence, and police violence, for as long as they can remember.  Does #NeverAgain resonate with young people in Oakland and Chicago?',
+	excerpt: '“That’s the world we live in. If an issue is not affecting a certain class or demographic, it’s ignored.”',
 	url: "https://youthradio.org/journalism/neveragain-are-you-listening-to-urban-youth-of-color/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/29101018/Image-3-Oakland_small.jpg",
 	}
@@ -21,9 +21,9 @@ var content2 = {
 var content3 = {
 	name: "content3",
 	type: "article",
-	title: "Hundreds Of Families Have Been Separated At US-Mexico Border",
+	title: "What Happens When Families Are Separated at the U.S.-Mexico Border",
 	subtitle: "BY NINA ROEHL",
-	excerpt: 'Sealing The Border is a yearlong in-depth investigation by the Hope Border Institute detailing the violations of immigrants’ human rights at the El Paso-Mexico border. According to the New York Times, more than 700 children have been separated from their parents at the border since the fall of 2017.',
+	excerpt: 'A yearlong in-depth investigation finds several human rights violations at the Mexican border including families being ripped apart.',
 	url: "https://youthradio.org/journalism/hundreds-of-families-have-been-separated-at-us-mexico-border/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/05/04120213/border-pic.jpg",
 	}
