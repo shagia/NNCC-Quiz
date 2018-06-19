@@ -74,6 +74,11 @@ animation: AnimationName 7s ease infinite;
 
 }
 
+.container{
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
 .icons--emoji{
 	top:50%;
 	left:0;
@@ -129,12 +134,12 @@ h1, h3, h2{
 	color: #66BCC0;
 }
 
-#img {
+.e-container img {
 	background-position: center;
 	background-size: cover;
 	padding: 0;
 	zoom: 50%;
-	/*transform: scale(0.5);*/
+	transform: scale(0.9);
 
 }
 
