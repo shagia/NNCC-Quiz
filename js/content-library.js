@@ -133,7 +133,7 @@ var content14 = {
 	type: "multimedia",
 	title: "3 Parkland Teens Remember Slain Classmates Via Music, Story, Poetry",
 	subtitle: "BY AMANDA EDWARDS, ARIANA ORTEGA, JENNA HARRIS",
-	excerpt: 'Some survivors of the shooting at Marjory Stoneman Douglas High School are speaking at rallies. For 17-year-old Amanda Edwards, coping with her grief is taking a different form: playing piano. Youth Radio caught up with her at her home in Parkland, Florida.',
+	excerpt: 'Survivors of the shooting at Marjory Stoneman Douglas High School are surrounded by reminders of the friends they lost. Here, three Parkland teens process the tragedy through music, poetry, and art.',
 	url: "http://youthradio.org/journalism/education/3-parkland-teens-remember-slain-classmates-via-music-story-poetry/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/03/01144646/AmandaEdwards_AtPiano_courtesyEricEdwards-1-1024x950.jpg",
 	}
@@ -143,7 +143,7 @@ var content15 = {
 	type: "interactive",
 	title: "No Excuses",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
-	excerpt: '',
+	excerpt: 'Sexual harassment can happen anywhere — from Hollywood to much closer to home. What about when it happens at school? Use this quiz to find out.',
 	url: "https://yri.youthradio.org/noexcuses/",
 	img: "./img/noexcuses.png",
 	}
@@ -153,7 +153,7 @@ var content17 = {
 	type: "interactive",
 	title: "MAP THE MOVEMENT #NEVERAGAIN",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
-	excerpt: 'Sexual harassment can happen anywhere — from Hollywood to much closer to home. What about when it happens at school? Use this quiz to find out.',
+	excerpt: 'Beautiful graphics and geotagged tweets show — in real time — just how widespread the #NeverAgain movement has become.',
 	url: "https://yri.youthradio.org/neveragain/",
 	img: "./img/map.png",
 	}
@@ -163,7 +163,7 @@ var content18 = {
 	type: "interactive",
 	title: "Don't Get Faked",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
-	excerpt: 'This whole fake news situation is out of hand, and no one wants to be the next clown spreading nonsense about something that never happened! Learn to spot the lies in your news feed.',
+	excerpt: 'Don’t Get Faked is a quick quiz to test your B.S. detection skills and show you if you’ve got a nose for fake news. And it has a bunch of resources to help you become an even sharper news sleuth.',
 	url: "https://yri.youthradio.org/dontgetfaked/",
 	img: "./img/facts.png",
 	}
@@ -173,7 +173,7 @@ var content19 = {
 	type: "article",
 	title: "How Are You Feeling? Keep Track With This New App",
 	subtitle: "BY YOUTH RADIO INTERACTIVE",
-	excerpt: 'Mood Ring is Youth Radio’s app that helps you track emotions, reach out to friends, and feel like your best self. You can check out all the awesome features of the app itself now that it is in the Apple App Store and Google Play Store. But there’s more to Mood Ring  than meets the 👀 !',
+	excerpt: 'Mood Ring is Youth Radio’s app that helps you track emotions, reach out to friends, and feel like your best self. You can check out all the awesome features of the app itself now that it is in the Apple App Store and Google Play Store.',
 	url: "https://youthradio.org/journalism/science/mood-ring-by-teens-for-teens-youth-radio/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/02/25103849/MoodRing-Facebook-Image1.png",
 	}
@@ -183,7 +183,7 @@ var content20 = {
 	type: "poem",
 	title: "Poetry: When I Die Young",
 	subtitle: "BY DEVON SUMMERS",
-	excerpt: 'If I was “normal,” I might live to be 80. If I was just gay, I might live to be 60. If I was just gay and depressed, I might live to be 50. If I was just gay, depressed, and an addict, I might live to be 40, And being trans all on its own gives me a life expectancy of 30.',
+	excerpt: 'Teen poet Devon Summers explores what it means to consider the future when you’re young and trans.',
 	url: "http://youthradio.org/journalism/outloud/poetry-when-i-die-young/",
 	img: "https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/24121010/1.png",
 	}
