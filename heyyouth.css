@@ -74,9 +74,14 @@ animation: AnimationName 7s ease infinite;
 
 }
 
+#intro h3{
+	color: grey !important;
+}
+
 .container{
 	padding-right: 0px !important;
 	padding-left: 0px !important;
+	overflow-x: hidden;
 }
 
 .icons--emoji{
